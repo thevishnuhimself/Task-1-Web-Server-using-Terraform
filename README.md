@@ -180,7 +180,7 @@ Now, I visit the /var/www/html and update the image link with the link from Clou
                                     command = "start chrome ${aws_instance.my_ins.public_ip}"
                                     }
                                 }
-**At last, your page is opened now**
+**At last, your page is opened now**<br>
 **I always welcome your feedback or any suggestion...**
 
       
