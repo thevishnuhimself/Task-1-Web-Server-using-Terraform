@@ -14,6 +14,8 @@ bdsjkfabakbskfdkabsfkaks
      
 **bold**
 
+![](/images/moon.jpg)
+
 _italics_
 
 _**bold-italics**_
