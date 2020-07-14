@@ -181,10 +181,9 @@ Now, I visit the /var/www/html and update the image link with the link from Clou
                                     }
                                 }
 **At last, your page is opened now**<br>
-**I always welcome your feedback or any suggestion...**
+**Always welcome your feedback or any suggestion...**
 
       
-
 
 
 
